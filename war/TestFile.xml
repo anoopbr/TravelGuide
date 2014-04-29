@@ -1,0 +1,25 @@
+<query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng"
+	yahoo:count="10" yahoo:created="2014-04-29T03:51:11Z" yahoo:lang="en-US">
+	<diagnostics>
+		<publiclyCallable>true</publiclyCallable>
+		<url execution-start-time="1" execution-stop-time="958"
+			execution-time="957"><![CDATA[https://travel.yahoo.com/p-travelguide-2839226-washington_things_to_do-i]]></url>
+		<url execution-start-time="1" execution-stop-time="958"
+			execution-time="957"><![CDATA[https://travel.yahoo.com/p-travelguide-2839226-washington_things_to_do-i]]></url>
+		<user-time>964</user-time>
+		<service-time>1873</service-time>
+		<build-version>0.2.2467</build-version>
+	</diagnostics>
+	<results>
+		<span>Lincoln Memorial</span>
+		<span>National Air and Space Museum</span>
+		<span>Vietnam Veterans Memorial</span>
+		<span>United States Holocaust Memorial Museum</span>
+		<span>U.S. Capitol Building</span>
+		<span>Washington National Cathedral</span>
+		<span>Smithsonian National Zoological Park</span>
+		<span>Thomas Jefferson Memorial</span>
+		<span>Franciscan Monastery</span>
+		<span>National Mall</span>
+	</results>
+</query><!-- total: 964 -->
