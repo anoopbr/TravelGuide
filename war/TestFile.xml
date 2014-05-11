@@ -1,25 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <query xmlns:yahoo="http://www.yahooapis.com/v1/base.rng"
-	yahoo:count="10" yahoo:created="2014-04-29T03:51:11Z" yahoo:lang="en-US">
+	yahoo:count="27" yahoo:created="2014-05-01T20:12:23Z" yahoo:lang="en-US">
 	<diagnostics>
 		<publiclyCallable>true</publiclyCallable>
-		<url execution-start-time="1" execution-stop-time="958"
-			execution-time="957"><![CDATA[https://travel.yahoo.com/p-travelguide-2839226-washington_things_to_do-i]]></url>
-		<url execution-start-time="1" execution-stop-time="958"
-			execution-time="957"><![CDATA[https://travel.yahoo.com/p-travelguide-2839226-washington_things_to_do-i]]></url>
-		<user-time>964</user-time>
-		<service-time>1873</service-time>
+		<url execution-start-time="1" execution-stop-time="1283"
+			execution-time="1282"><![CDATA[http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-TG-C-1.html]]></url>
+		<url execution-start-time="1" execution-stop-time="1283"
+			execution-time="1282"><![CDATA[http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-TG-C-1.html]]></url>
+		<user-time>1289</user-time>
+		<service-time>2535</service-time>
 		<build-version>0.2.2467</build-version>
 	</diagnostics>
 	<results>
-		<span>Lincoln Memorial</span>
-		<span>National Air and Space Museum</span>
-		<span>Vietnam Veterans Memorial</span>
-		<span>United States Holocaust Memorial Museum</span>
-		<span>U.S. Capitol Building</span>
-		<span>Washington National Cathedral</span>
-		<span>Smithsonian National Zoological Park</span>
-		<span>Thomas Jefferson Memorial</span>
-		<span>Franciscan Monastery</span>
-		<span>National Mall</span>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Times_Square-BR-1.html">1. Times Square</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Central_Park-BR-1.html">2. Central Park</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Statue_of_Liberty_Ellis_Island-BR-1.html">3. Statue of Liberty - Ellis Island</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Empire_State_Building-BR-1.html">4. Empire State Building</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Rockefeller_Center-BR-1.html">5. Rockefeller Center</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Chinatown-BR-1.html">6. Chinatown</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-South_Street_Seaport-BR-1.html">7. South Street Seaport</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Brooklyn_Bridge-BR-1.html">8. Brooklyn Bridge</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Wall_Street-BR-1.html">9. Wall Street</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Soho_District-BR-1.html">10. Soho District</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Ground_Zero_World_Trade_Center-BR-1.html">11. Ground Zero - World Trade Center</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Staten_Island_and_Staten_Island_Ferry-BR-1.html">12. Staten Island and Staten Island Ferry</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-St_Patricks_Cathedral-BR-1.html">13. St Patrick's Cathedral</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Metropolitan_Museum_of_Art-BR-1.html">14. Metropolitan Museum of Art</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Greenwich_Village-BR-1.html">15. Greenwich Village</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Fifth_Avenue-BR-1.html">16. Fifth Avenue</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-United_Nations-BR-1.html">17. United Nations</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Battery_Park-BR-1.html">18. Battery Park</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Top_of_the_Rock-BR-1.html">19. Top of the Rock</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Little_Italy-BR-1.html">20. Little Italy</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Flatiron_Building-BR-1.html">21. Flatiron Building</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Grand_Central_Terminal-BR-1.html">22. Grand Central Terminal</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Guggenheim_Museum-BR-1.html">23. Guggenheim Museum</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-Museum_of_Modern_Art_MoMA-BR-1.html">24. Museum of Modern Art (MoMA)</a>
+		<a
+			href="http://www.virtualtourist.com/travel/North_America/United_States_of_America/New_York_State/New_York_City-841252/Things_To_Do-New_York_City-City_Hall_and_Woolworth_Building-BR-1.html">25. City Hall and Woolworth Building</a>
+		<a
+			href="http://www.virtualtourist.com/hotels/North_America/United_States_of_America/New_York_State/New_York_City-841252/Hotels_and_Accommodations-New_York_City-TG-C-1.html">New York City Hotels</a>
+		<a href="http://forum.virtualtourist.com/New_York_City-841252-5/forum.html">Ask a Question</a>
 	</results>
-</query><!-- total: 964 -->
+</query><!-- total: 1289 --><!-- engine7.yql.bf1.yahoo.com -->
